@@ -1,8 +1,12 @@
 # Agent State Machine
 
+[![0xPlaygrounds - rig](https://img.shields.io/static/v1?label=0xPlaygrounds&message=rig&color=blue&logo=github)](https://github.com/0xPlaygrounds/rig "Go to GitHub repo")  [![stars - rig](https://img.shields.io/github/stars/0xPlaygrounds/rig?style=social)](https://github.com/0xPlaygrounds/rig)
+
 An experiment for managing Large Language Model (LLM) agents using state machine patterns. This framework provides a robust and scalable foundation for building predictable, maintainable, and extensible AI agents.
 
-> ⭐ If you find this project useful, please consider giving [Rig](https://github.com/0xPlaygrounds/rig) a star on GitHub.
+> ⭐ Please consider giving Rig a star on GitHub and help spread the word!
+> 
+
 
 ## Why Use State Machines for LLM Agents?
 
